@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCPC1123
-- 👀 I’m interested in maths
-- 🌱 I’m currently learning differential equations
-- 💞️ I’m looking to collaborate on maths
+- 👀 I’m interested in maths and computers
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
